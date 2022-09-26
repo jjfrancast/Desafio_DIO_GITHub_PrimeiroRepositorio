@@ -1,0 +1,9 @@
+Comandos para o Git Bash:
+
+
+cd + nome da pasta (acessa a pasta desejada)
+git clone +link do repositório (cria a conexção entre o repositório do GitHub com o projeto que será desenvolvido o localhost)
+git status (analisa todos os aquivos presentes no repositório)
+git add. (adiciona as alterações realizadas no localhost ao repositório do Github)
+git commit -m "" (Comita as alterações realizadas no respositório juntamente com uma mensagem contendo um breve resumo das alterações realizadas)
+git push origin main (envia as alterações para o servidor do repositório)
